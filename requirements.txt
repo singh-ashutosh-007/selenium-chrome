@@ -91,7 +91,7 @@ rcssmin==1.0.6
 redis==3.3.8
 requests==2.22.0
 rjsmin==1.1.0
-rsa==4.0
+rsa==4.7
 s3transfer==0.2.1
 selenium==3.141.0
 simplegeneric==0.8.1
